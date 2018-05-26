@@ -1,18 +1,15 @@
-# vue-laboratory
+# vue-bootstrap-template
+> サーバ機能を持たない単一ページのためのテンプレート
 
-> A Vue.js project
-
-## Build Setup
+## Usage
 
 ``` bash
-# install dependencies
+# モジュールのインストール
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
+# ウォッチビルド
+npm run watch
 
-# build for production with minification
-npm run build
+# 起動 (VS Codeでデバッグするときは、コマンドを使用せずに、VS Code上で、「プログラムの起動」を選択)
+npm run start
 ```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
